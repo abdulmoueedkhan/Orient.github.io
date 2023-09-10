@@ -161,7 +161,10 @@ Orient.github.io
                             </div>
                             <div class="name">HOODIES</div>
                             <div class="price">$6.7</div>
-                            <div class="info">Lorem ipsum dolor sit.</div>
+                            <div class="info">Lorem ipsum dolor sit. Premium Cotton: Made from high-quality, long-staple cotton fibers, resulting in a soft, breathable, and durable fabric.
+Supima Cotton: A type of premium cotton known for its extra-long fibers, making it exceptionally soft and resistant to pilling.
+Pima Cotton: Another high-quality cotton variety known for its softness and strength.
+Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a more environmentally friendly and comfortable option.</div>
                         </div>
                         <div class="items">
                             <div class="img img1">
