@@ -38,10 +38,12 @@ Orient.github.io
             </div>
             <div class="heading">
                 <ul>
-                    <ul><a href="#" class="under">We</a></ul>
-                    <ul><a href="#" class="under">Value</a></ul>
-                    <ul><a href="#" class="under">Our Customers</a></ul>
-                    <ul><a href="#" class="under">Please do provide us with your valuable feedback</a></ul>
+                    <ul><a href="#" class="under">Welcome to Chic Charm Boutique- Your Gateway to Timeless Style!</a></ul>
+                    <ul><a href="#" class="under">
+
+At Chic Charm Boutique, we believe that clothing is more than just fabric; it's a reflection of your personality,</a></ul>
+                    <ul><a href="#" class="under">a celebration of your individuality, and a canvas for self-expression. With an unwavering commitment to quality,</a></ul>
+                    <ul><a href="#" class="under">creativity, and affordability, we bring you a curated collection of fashion that transcends trends and stands the test of time.</a></ul>
                     <ul><a href="#" class="under">Thanks for Purchasing!</a></ul>
                 </ul>
             </div>
