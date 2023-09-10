@@ -122,47 +122,19 @@ At Chic Charm Boutique, we believe that clothing is more than just fabric; it's 
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://images.pexels.com/photos/8839887/pexels-photo-8839887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">WATCH</div>
-                            <div class="price">$9.1</div>
-                            <div class="info">Lorem ipsum dolor sit.</div>
                         </div>
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://images.pexels.com/photos/6858618/pexels-photo-6858618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">SMART PHONE</div>
-                            <div class="price">$20</div>
-                            <div class="info">Lorem ipsum dolor sit.</div>
                         </div>
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://images.pexels.com/photos/5552789/pexels-photo-5552789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">TELEVISION</div>
-                            <div class="price">$18</div>
-                            <div class="info">
-                                Lorem ipsum dolor sit amet consectetur.
-                            </div>
+                                
                         </div>
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://images.pexels.com/photos/4295985/pexels-photo-4295985.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">HOODIES</div>
-                            <div class="price">$6.7</div>
                             <div class="info">Lorem ipsum dolor sit. Premium Cotton: Made from high-quality, long-staple cotton fibers, resulting in a soft, breathable, and durable fabric.
 Supima Cotton: A type of premium cotton known for its extra-long fibers, making it exceptionally soft and resistant to pilling.
 Pima Cotton: Another high-quality cotton variety known for its softness and strength.
@@ -171,15 +143,6 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://media.istockphoto.com/photos/vintage-plates-with-silver-teaspoons-picture-id184363070"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">DINNER SET</div>
-                            <div class="price">$10</div>
-                            <div class="info">
-                                Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit.
                             </div>
                         </div>
                         <div class="items">
@@ -199,43 +162,16 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://images.pexels.com/photos/2659939/pexels-photo-2659939.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">LAPTOP</div>
-                            <div class="price">$99</div>
-                            <div class="info">
-                                Lorem ipsum dolor sit amet consectetur,
-                                adipisicing elit.
                             </div>
                         </div>
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://media.istockphoto.com/photos/modern-kitchen-microwave-oven-picture-id1144960519"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">MICROWAVE</div>
-                            <div class="price">$30</div>
-                            <div class="info">
-                                Lorem ipsum dolor sit amet consectetur,
-                                adipisicing elit.
                             </div>
                         </div>
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://media.istockphoto.com/photos/black-coffee-maker-with-green-led-lights-picture-id177395430"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">COFFEE MAKER</div>
-                            <div class="price">$29.7</div>
-                            <div class="info">
-                                Lorem ipsum dolor sit amet consectetur,
-                                adipisicing elit.
                             </div>
                         </div>
                         <div class="items">
@@ -255,29 +191,11 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://media.istockphoto.com/photos/woman-turning-on-air-conditioner-picture-id1325708905"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">AIR CONDITIONER</div>
-                            <div class="price">$78</div>
-                            <div class="info">
-                                Lorem ipsum dolor sit amet consectetur,
-                                adipisicing elit.
                             </div>
                         </div>
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://images.pexels.com/photos/5834/nature-grass-leaf-green.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">BOOK</div>
-                            <div class="price">$9</div>
-                            <div class="info">
-                                Lorem ipsum dolor sit amet consectetur,
-                                adipisicing elit.
                             </div>
                         </div>
                         <div class="items">
@@ -311,15 +229,6 @@ Organic Cotton: Grown without synthetic pesticides or fertilizers, offering a mo
                         <div class="items">
                             <div class="img img1">
                                 <img
-                                    src="https://images.pexels.com/photos/5816934/pexels-photo-5816934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                                    alt=""
-                                />
-                            </div>
-                            <div class="name">WASHING MACHINE</div>
-                            <div class="price">$56</div>
-                            <div class="info">
-                                Lorem ipsum dolor sit amet consectetur,
-                                adipisicing elit.
                             </div>
                         </div>
                     </div>
